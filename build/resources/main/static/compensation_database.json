@@ -1,0 +1,25 @@
+[ {
+  "id" : "1234",
+  "employee" : {
+    "employeeId" : "b7839309-3348-463b-a7e3-5de1c168beb3",
+    "firstName" : null,
+    "lastName" : null,
+    "position" : null,
+    "department" : null,
+    "directReports" : null
+  },
+  "salary" : 50000.0,
+  "effective_date" : "2020-12-05"
+}, {
+  "id" : "671e89f3-edee-47eb-a4e8-12332c41998e",
+  "employee" : {
+    "employeeId" : "62c1084e-6e34-4630-93fd-9153afb65309",
+    "firstName" : "Pete",
+    "lastName" : "Best",
+    "position" : "Developer II",
+    "department" : "Engineering",
+    "directReports" : null
+  },
+  "salary" : 7000.0,
+  "effective_date" : "2072-12-05"
+} ]
